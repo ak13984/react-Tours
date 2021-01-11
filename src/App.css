@@ -1,0 +1,34 @@
+
+
+#imgHeader{
+  display: flex;
+  justify-content:space-between;
+  margin: 1rem;
+}
+
+#tourCard{
+  height: 140rem;
+  margin: 2rem;
+  padding: 0;
+  padding-bottom:2rem;
+    position: relative;
+}
+
+
+#center-div{
+   align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+/* 
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
